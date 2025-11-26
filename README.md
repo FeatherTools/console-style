@@ -2,7 +2,7 @@
 
 [![NuGet](https://img.shields.io/nuget/v/Feather.ConsoleStyle.svg)](https://www.nuget.org/packages/Feather.ConsoleStyle)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Feather.ConsoleStyle.svg)](https://www.nuget.org/packages/Feather.ConsoleStyle)
-[![Checks](https://github.com/FeatherTools/console-style/actions/workflows/tests.yaml/badge.svg)](https://github.com/FeatherTools/console-style/actions/workflows/tests.yaml)
+[![Checks](https://github.com/FeatherTools/console-style/actions/workflows/checks.yaml/badge.svg)](https://github.com/FeatherTools/console-style/actions/workflows/checks.yaml)
 
 > One of the most boring tasks when creating console commands is to deal with the styling of the command's input and output. Displaying titles and tables or asking questions to the user involves a lot of repetitive code.
 
